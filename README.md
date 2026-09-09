@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**oboyl/oboyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oboyl/oboyl** is a ✨ _special_ ✨ repository because it's a `README.md` file.
 
 - 🔭 I’m currently working on my Computer Science degree at ODU
 - 🌱 I’m currently learning Java and Python
@@ -11,4 +10,3 @@
 - 📫 How to reach me: oboyl001@odu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy horror movies/games and I am taking pictures of different moth species as I find them!
--->
