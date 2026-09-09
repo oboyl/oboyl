@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**oboyl/oboyl** is a ✨ _special_ ✨ repository because it's a `README.md` file.
+This is a ✨ _special_ ✨ page because it's `Olivia's` page.
 
 - 🔭 I’m currently working on my Computer Science degree at ODU
 - 🌱 I’m currently learning Java and Python
